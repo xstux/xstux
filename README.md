@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xstux
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, Javascript & Java
+- 🌱 I’m currently learning HTML, CSS, Javascript, Java & Python
 - 💞️ I’m looking to collaborate on nothing yet; soon!
 - 📫 How to reach me ...
 
